@@ -1,5 +1,5 @@
 # 🎨 Gerador de CSS com IA
-
+⚙️ Este projeto está em desenvolvimento e recebe melhorias contínuas à medida que avanço nos estudos de JavaScript.
 > Descreva o estilo que você quer em português — e receba o CSS pronto na hora.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
